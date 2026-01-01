@@ -74,7 +74,7 @@ pip install numpy
 ---
 
 ## Usage : 
-###Run the calculator logic (CLI/testing)
+### Run the calculator logic (CLI/testing)
 ```
 python calculator.py
  ```
