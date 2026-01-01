@@ -33,12 +33,14 @@ This project demonstrates strong fundamentals in **Python programming**, **numer
 
 ## 📂 Project Structure
 
+```
 scientific-calculator/
 │
 ├── calculator.py # Core calculation logic
 ├── Calculator_GUI.py # GUI implementation
 ├── README.md # Project documentation
 └── requirements.txt # Dependencies
+```
 
 
 
