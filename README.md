@@ -1724,6 +1724,4 @@ Special thanks to:
 
 <br>
 
-[⬆ Back to Top](#)
-
 </div>
